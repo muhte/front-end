@@ -1,0 +1,51 @@
+/**@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;500;600&display=swap');**/
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Secular One', sans-serif;
+    margin-top: 10px;
+    background-color: rgb(56, 221, 221);
+}
+
+ul {
+    margin-top: 20px;
+    margin-left: 20px;
+    border-style: groove;
+    font-family: "Audiowide", sans-serif;
+}
+
+div ul {
+    display: flex;
+    justify-content: space-around;
+}
+div ul li a 
+{
+    font-family:'Secular One', sans-serif ;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+header .container .navbar .logo a
+{
+    color : white;
+    text-decoration:rgb(97, 80, 69);
+   
+
+}
+div {
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+/* MD.ürünlerimiz css kodları  */
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Secular One', sans-serif;
+    margin : 4px;
+    background-color: rgb(192, 238, 238);
+}
+
+
+
